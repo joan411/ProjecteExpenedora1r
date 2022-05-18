@@ -13,10 +13,14 @@ public class Maquina {
     // Hi ha stock del producte?
     // Demanar monedes.
     // Calcular canvi.
+    // Treure el Producte
+    // Treure el Canvi
     // ...
     // }
 
-    private void calcularCanvi()
+    private void calcularCanvi() {
+
+    }
 
     private void demanarMonedes(Producte p) {
         // Mostra per pantalla el preu del producte.
